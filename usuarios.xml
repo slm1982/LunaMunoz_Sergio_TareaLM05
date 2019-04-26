@@ -20,4 +20,9 @@
                 <apellidos>Luna Cano</apellidos>
                 <fechaNac>10/01/2016</fechaNac>
         </usuario>
+	<usuario dni="85296314">
+                <nombre>Peter</nombre>
+                <apellidos>Porker</apellidos>
+                <fechaNac>22/01/2018</fechaNac>
+        </usuario>
 </usuarios>

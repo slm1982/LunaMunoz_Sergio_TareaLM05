@@ -1,0 +1,8 @@
+<grupos>
+	<grupo id=01>
+		<nombre>Grupo1</nombre>
+	</grupo>
+	<grupo id=02>
+		<nombre>Grupo2</nombre>
+	</grupo>
+</grupos>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+	<usuario dni="12345678">
+		<nombre>Sergio</nombre>
+		<apellidos>Luna Muñoz</apellidos>
+		<fechaNac>31/03/1982</fechaNac>
+	</usuario>
+	<usuario dni="45678912">
+                <nombre>Jessica</nombre>
+                <apellidos>Cano Conde</apellidos>
+                <fechaNac>04/12/1982</fechaNac>
+        </usuario>
+	<usuario dni="78912345">
+                <nombre>Armonía</nombre>
+                <apellidos>Luna Cano</apellidos>
+                <fechaNac>07/04/2014</fechaNac>
+        </usuario>
+</usuarios>

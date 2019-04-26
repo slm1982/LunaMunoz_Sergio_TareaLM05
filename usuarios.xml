@@ -15,4 +15,9 @@
                 <apellidos>Luna Cano</apellidos>
                 <fechaNac>07/04/2014</fechaNac>
         </usuario>
+	<usuario dni="96385274">
+                <nombre>Sergio</nombre>
+                <apellidos>Luna Cano</apellidos>
+                <fechaNac>10/01/2016</fechaNac>
+        </usuario>
 </usuarios>
